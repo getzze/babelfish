@@ -5,7 +5,7 @@
 from __future__ import annotations
 
 from collections import namedtuple
-from dataclasses import dataclass, InitVar, fields
+from dataclasses import InitVar, dataclass
 from functools import partial
 from typing import Any, ClassVar
 
